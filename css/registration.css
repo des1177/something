@@ -1,0 +1,35 @@
+body{
+background-color: #FF4C68;
+font-family: 'Arvo', serif;
+}
+
+form{
+  position: relative;
+  width: 80%;
+  margin: 5% auto;
+}
+
+input{
+  position: absolute;
+left: 60%;
+border: none;
+border-radius: 5px;
+}
+
+.container-fluid{
+  position: absolute;
+  margin: 0 auto;
+}
+
+.window{
+  width: 80%;
+  height: 90%;
+  /* background-color: rgba(129, 123, 133, 1) ; */
+  border: solid rgba(129, 123, 133, 0.2) 20px;
+  border-radius: 10px;
+  margin: 10% auto;
+
+  /* background-image: url("../images/pexels-eberhard-grossgasteiger-2310713.jpg");
+  background-size: cover;
+  background-repeat: no-repeat; */
+}
