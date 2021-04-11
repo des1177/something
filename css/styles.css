@@ -74,6 +74,14 @@ opacity: 0.4;
   margin: 5% 3% 5% 0;
 }
 
+a {
+  color: white;
+}
+
+a:hover{
+  color: white;
+}
+
 /* Title Section */
 
 #title {
